@@ -25,7 +25,15 @@
 @@||googleusercontent.com^$important
 @@||drive.google.com^$important
 @@||mail.google.com^$important
-#
+@@||dl.google.com^$important
+@@||_tcp.dl.google.com^$important
+@@||forcesafesearch.google.com^$important
+# Youtube
+@@||restrictmoderate.youtube.com^$important
+@@||restrict.youtube.com^$important
+@@||youtube-nocookie.com^$important
+@@||youtube.com^$important
+@@||youtube.googleapis.com^$important
 # Microsoft
 @@||xbox.ipv6.microsoft.com^$important
 @@||xboxexperiencesprod.experimentation.xboxlive.com^$important
@@ -68,7 +76,6 @@
 @@||dl.delivery.mp.microsoft.com^$important
 @@||1drv.com^$important
 @@||aspnetcdn.com^$important
-#
 # Apple
 @@||gdmf.apple.com.akadns.net^$important
 @@||apple.com^$important
@@ -84,6 +91,5 @@
 @@||np-edge-cdn.itunes-apple.com.akadns.net^$important
 @@||iadsdk.apple.com.akadns.net^$important
 @@||play.itunes.apple.com.edgesuite.net^$important
-#
 # Lets Encrypt
 @@||letsencrypt.org^$important
