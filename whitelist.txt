@@ -25,9 +25,13 @@
 @@||googleusercontent.com^$important
 @@||drive.google.com^$important
 @@||mail.google.com^$important
-@@||dl.google.com^$important
-@@||_tcp.dl.google.com^$important
+@@||dl.google.com^$important  # Chrome Linux Apt respository
+@@||_tcp.dl.google.com^$important  # Chrome Linux Apt repository
 @@||forcesafesearch.google.com^$important
+@@||storage.googleapis.com^$important  # Google Drive
+@@||www.googleapis.com^$important  # Google Drive
+@@||update.googleapis.com^$important  # Google Drive
+@@||drive.google.com^$important  # Google Drive
 # Youtube
 @@||restrictmoderate.youtube.com^$important
 @@||restrict.youtube.com^$important
