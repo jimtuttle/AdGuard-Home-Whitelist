@@ -32,6 +32,14 @@
 @@||www.googleapis.com^$important  # Google Drive
 @@||update.googleapis.com^$important  # Google Drive
 @@||drive.google.com^$important  # Google Drive
+@@||www.gstatic.com^$important
+@@||www.google.com^$important
+@@||aa.google.com^$important
+@@||addons-pa.clients6.google.com^$important
+@@||lh3.googleusercontent.com^$important
+@@||people-pa.clients6.google.com^$important
+@@||drive-thirdparty.googleusercontent.com^$important
+@@||signaler-pa.clients6.google.com^$important
 # Youtube
 @@||restrictmoderate.youtube.com^$important
 @@||restrict.youtube.com^$important
