@@ -1,4 +1,6 @@
 # My Adguard Home whitelist
+# Overcast Podcast relay
+@@||pdst.fm^$important
 # Instagram
 @@||cdninstagram.com^$important
 @@||instagram.com^$important
